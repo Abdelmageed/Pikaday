@@ -1,19 +1,19 @@
 {
-  "name": "pikaday",
-  "version": "1.8.2",
-  "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
+  "name": "pikaday-dayjs",
+  "version": "1.0.0",
+  "description": "A refreshing JavaScript Datepicker — lightweight, depends only dayjs, modular CSS",
   "keywords": [
     "datepicker",
     "calendar",
     "date"
   ],
   "homepage": "https://pikaday.com",
-  "bugs": "https://github.com/Pikaday/Pikaday/issues",
+  "bugs": "https://github.com/Abdelmageed/Pikaday/issues",
   "license": "(0BSD OR MIT)",
   "main": "pikaday.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pikaday/Pikaday.git"
+    "url": "https://github.com/Abdelmageed/Pikaday.git"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
